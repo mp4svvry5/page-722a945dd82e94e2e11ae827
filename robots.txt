@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.6sieda.cn/sitemap.xml
